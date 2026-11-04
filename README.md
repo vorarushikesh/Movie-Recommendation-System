@@ -84,6 +84,8 @@ streamlit run movie_recommended_system.py
 
 Streamlit will show a local address in the terminal. Open that address in your web browser.
 
+project url : https://movie-recommendation-system-ouiz.onrender.com/
+
 ## Note
 
 Keep `movie_dict.pkl` and `similarity.pkl` in the same folder as `movie_recommended_system.py`. The app needs both files to recommend movies.
